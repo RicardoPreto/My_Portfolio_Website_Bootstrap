@@ -35,3 +35,19 @@
     padding-left: 113px;
     padding-bottom: 05px;
 }
+
+.code_see {
+    text-decoration: underline;
+    color: white;
+    font-family:cambria;
+}
+
+.name_see{
+    color:white;
+    font-family: Cambria;
+    text-decoration: none;
+}
+
+.image {
+    border-radius: 30px;
+}
